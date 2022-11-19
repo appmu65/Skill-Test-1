@@ -1,0 +1,4 @@
+Nama			: Apip Munandar
+Umur			: 24 Tahun
+Stack			: Back-End
+Bahasa Pemrograman	: PHP, JavaScript, Python
